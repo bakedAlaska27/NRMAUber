@@ -1,0 +1,2 @@
+423,mechanicOne,password,Frank,Reynolds,12/12/1987,Visa,5
+736,mechanicTwo,pass789,Charlie,Day,14/08/1978,637090,Mastercard,4
